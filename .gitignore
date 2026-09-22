@@ -34,3 +34,7 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# 本地运行数据库（可用 /api/reset 随时重建）
+workshop.db
+*.db
